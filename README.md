@@ -1,4 +1,4 @@
-### Hi there, I'm <h2>Sam Cladson</h2> 👋
+### Hi there 👋
 
 - 🔭 I’m currently working on Face Recognition
 - 🌱 I’m currently learning OpenCV
