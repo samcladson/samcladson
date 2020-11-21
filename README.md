@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif
+<img src='https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif'/>
 
 - 🔭 I’m currently working on Face Recognition
 - 🌱 I’m currently learning OpenCV
