@@ -12,4 +12,4 @@
 
 ### My stats !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=radical)
-(https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=radical&hide=stars)
+![](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=radical&hide=stars)
