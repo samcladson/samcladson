@@ -1,8 +1,8 @@
-### Hi there 👋, I'm a Software Developer !
+## Hi there 👋, I'm a Software Developer !
 
 <img src='https://pa1.narvii.com/6912/d50194346960feae7915c3818978c40673af1e74r4-800-600_00.gif'>
 
-### About Me
+## About Me
 ### Passionate and kind person looking farward to learn and develope new technologies and Software.  
 
       
@@ -10,6 +10,6 @@
  - 🌱 I’m currently learning OpenCV
  - 👯 I’m looking to collaborate on Web Development
 
-### My stats !
+## My stats !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=radical&hide=stars)
+![My github stats](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=radical&hide=stars)
