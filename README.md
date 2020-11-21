@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Sam Cladson
+## Hi there 👋🏻, I'm Sam Cladson
 
 <img src='https://pa1.narvii.com/6912/d50194346960feae7915c3818978c40673af1e74r4-800-600_00.gif'>
 
