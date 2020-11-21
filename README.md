@@ -11,5 +11,5 @@
  - 👯 I’m looking to collaborate on Web Development
 
 ## My stats !
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=radical&custom_title='Top Languages')
-![My github stats](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=radical&hide=stars&custom_title='GitHub Stats')
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=radical&custom_title=Top-Languages')
+![My github stats](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=radical&hide=stars&custom_title=GitHub-Stats)
