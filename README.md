@@ -12,6 +12,8 @@
  - 🌱 I’m currently learning OpenCV
  - 👯 I’m looking to collaborate on Web Development
 
+### Have a look at my [resume](https://drive.google.com/file/d/1cfcpGfgZiwMJD0eylhsmX6Nup4Oim7Z8/view?usp=sharing) 
+
 ## My stats !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=react&custom_title=Tech-Stacks&count=8)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=react&hide=stars&custom_title=GitHub-Stats)
