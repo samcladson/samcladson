@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, I'm a Software Developer 👋
 
-<img src='https://i.pinimg.com/originals/8c/9a/07/8c9a079986a4ce112882fea6db3ffdee.gif'>
+<img src='https://pa1.narvii.com/6912/d50194346960feae7915c3818978c40673af1e74r4-800-600_00.gif'>
       
- - 🔭 I’m currently working on Face Recognition
+ - 🔭 I’m currently working on Face Recognition Project
  - 🌱 I’m currently learning OpenCV
  - 👯 I’m looking to collaborate on Web Development
  
