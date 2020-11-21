@@ -18,4 +18,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=react&custom_title=Tech-Stacks&count=8)
 ![My github stats](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=react&hide=stars&custom_title=GitHub-Stats)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samcladson&layout=compact&custom_title=Walktime)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samcladson&layout=compact&custom_title=Time stats)
