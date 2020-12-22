@@ -12,7 +12,7 @@
  - 🌱 I’m currently learning OpenCV
  - 👯 I’m looking to collaborate on Web Development
 
-### :page_with_curl: Have a look at my [resume](https://drive.google.com/file/d/1cfcpGfgZiwMJD0eylhsmX6Nup4Oim7Z8/view?usp=sharing) 
+### :page_with_curl: Have a look at my [resume](https://drive.google.com/file/d/1uvt7T_35XJv7WQaaYvuIxmSqJu6U8cnw/view?usp=sharing) 
 
 ## :zap: My stats !
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=react&custom_title=Tech-Stacks&count=8)
