@@ -2,7 +2,7 @@
 
 <img src='https://pa1.narvii.com/6912/d50194346960feae7915c3818978c40673af1e74r4-800-600_00.gif'>
 
-### :computer: I'm a Software Development Intern at [Virtusa](https://virtusa.com)
+### :computer: I'm a Software Development Intern at [Advanced Infrastructure](https://www.advanced-infrastructure.co.uk/)
 
 
 ## :boy: About Me
