@@ -13,13 +13,4 @@
  - 🌱 I’m currently learning OpenCV
  - 👯 I’m looking to collaborate on Web Development
 
-### :page_with_curl: Have a look at my [resume](https://drive.google.com/file/d/1uvt7T_35XJv7WQaaYvuIxmSqJu6U8cnw/view?usp=sharing) 
-
-## :zap: My stats !
-
-![](https://komarev.com/ghpvc/?username=samcladson)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samcladson&layout=compact&theme=react&custom_title=Tech-Stacks&count=8)
-![My github stats](https://github-readme-stats.vercel.app/api?username=samcladson&show_icons=true&theme=react&hide=stars&custom_title=GitHub-Stats)
-
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samcladson&layout=compact&theme=react)
+### :page_with_curl: Have a look at my [resume](https://drive.google.com/file/d/1uvt7T_35XJv7WQaaYvuIxmSqJu6U8cnw/view?usp=sharing)
